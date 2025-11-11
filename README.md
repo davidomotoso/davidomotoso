@@ -45,15 +45,15 @@
 
 ## 📊 GitHub Insights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=davidomotoso&theme=onedark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidomotoso&layout=compact&theme=onedark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidomotoso&theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api?username=davidomotoso&theme=onedark&show_icons=true&show=prs_merged_percentage)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidomotoso&layout=donut&theme=onedark)
+![Streak](https://streak-stats.demolab.com?user=davidomotoso)
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=davidomotoso&theme=onedark&no-frame=true&row=1)
+![Trophies](https://github-trophies.vercel.app/?username=davidomotoso&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
