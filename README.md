@@ -75,5 +75,5 @@
 
 ## 😂 Random Dev Meme
 
-![Meme](https://i.pinimg.com/736x/4f/82/8d/4f828d05f82b8b7aedfe8be6a7d9d2a3.jpg)
+![Meme](https://devhumor.com/content/uploads/images/April2025/refactoring_big_plans.jpeg)
 
