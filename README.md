@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 💻 I build **modern, performant, and responsive** web apps  
-- 🔭 Currently developing **LAGMIA**, an e-commerce platform for students at my university  
+- 🔭 Currently developing **KAMPIA**, an e-commerce platform for students at my university  
 - 👯 I’m open to collaborating on **open-source projects**  
 - 🌱 Learning **Node.js**, **Express.js**, and **Spline design**  
 - 💬 Ask me about **React.js**, **Next.js**, and **frontend performance optimization**  
